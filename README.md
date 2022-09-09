@@ -1,11 +1,17 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on [BirdNET-stream](https://github.com/UncleSamulus/BirdNET-stream)
-- 🌱 I’m currently learning BioInformatics
+![Toucan Logo](./toucan-logo.png)
+
+I am Samuel ORTION.
+
+<!-- 🔭 I’m currently working on ... -->
+- 🌱 I’m currently learning BioInformatics at Evry | Paris-Saclay University
 <!-- - 👯 I’m looking to collaborate on ...-->
 <!-- - 🤔 I’m looking for help with ...-->
 <!-- - 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 How to reach me: [samuel+git@ortion.fr](mailto:samuel+git@ortion.fr)
+- 😄 Pronouns: He, Him
+- 💻 Find more projects on one of the following git forges (from most to less used):
+  - [https://forge.chapril.org/UncleSamulus](https://forge.chapril.org/UncleSamulus)
+  - [https://framagit.org/UncleSamulus](https://framagit.org/UncleSamulus)
+  - [https://gitlab.com/UncleSamulus](https://gitlab.com/UncleSamulus)
