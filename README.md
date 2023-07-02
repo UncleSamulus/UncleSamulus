@@ -14,6 +14,6 @@ I am Samuel ORTION.
  - Website: [samuel.ortion.fr](https://samuel.ortion.fr/)
 - 😄 Pronouns: He, Him
 - 💻 Find more projects on one of the following git forges (from most to less used):
-  - [https://forge.chapril.org/UncleSamulus](https://forge.chapril.org/UncleSamulus/)
-  - [https://framagit.org/UncleSamulus](https://framagit.org/UncleSamulus/)
-  - [https://gitlab.com/UncleSamulus](https://gitlab.com/UncleSamulus/)
+  - [https://forge.chapril.org/sortion](https://forge.chapril.org/sortion/)
+  - [https://framagit.org/sortion](https://framagit.org/sortion/)
+  - [https://gitlab.com/sortion](https://gitlab.com/sortion/)
