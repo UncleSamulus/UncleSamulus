@@ -1,5 +1,5 @@
 <div class="card" style="display: flex; flex-direction: row; align-items: center;">
-  <img class="card-av" src="./assets/mouse-small.svg" alt="avatar" style="border: 2px solid rgb(141, 141, 146); max-height: 7.5em; border-radius: 50%; margin: 2em 2em 0 0;" >
+  <img class="card-av" src="./sortion/assets/mouse-small.svg" alt="avatar" style="border: 2px solid rgb(141, 141, 146); max-height: 7.5em; border-radius: 50%; margin: 2em 2em 0 0;" >
   <div class="card-details" style="margin: 2em 2em;">
     <span class="card-username"><a href="//framagit.org/sortion/" style="color: rgb(190, 178, 200);"">@sortion</a></span>
     <h2 style="color: rgb(215, 214, 214);">Hey There! I'm <span class="name" style="color: rgb(190, 178, 200);">Samuel Ortion</span>!</h2>
