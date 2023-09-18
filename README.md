@@ -16,3 +16,5 @@
   - <https://forge.chapril.org/sortion>
   - <https://gitlab.com/sortion>
   - <https://github.com/UncleSamulus>
+
+Profile picture artwork by J. Bastière.
