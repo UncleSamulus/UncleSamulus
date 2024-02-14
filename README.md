@@ -2,7 +2,7 @@
 
 > Computational biology student at Université d'Évry val d'Essonne, Université Paris-Saclay in M.Sc. Genomics, Informatics and Mathematics for Health and Environment (GENIOMHE).
 
-- 🔭 I’m currently working on an online tictactoe with Django channels.
+<!-- - 🔭 I’m currently working on an online tictactoe with Django channels. -->
 - 🌱 I’m learning Answer-Set Programming.
 - 👯 I’m looking to collaborate on *in silico* biology inspired simulations.
 <!-- - 🤔 I’m looking for help with ... -->
