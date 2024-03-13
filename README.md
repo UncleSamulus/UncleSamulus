@@ -15,6 +15,6 @@
   - <https://framagit.org/sortion>
   - <https://forge.chapril.org/sortion>
   - <https://gitlab.com/sortion>
-  - <https://github.com/UncleSamulus>
+  - <https://github.com/samuelortion>
 
 Profile picture artwork by J. Bastière.
